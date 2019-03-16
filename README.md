@@ -1,4 +1,4 @@
-# design-saver
+# design-saver-proto
 
 ## Project setup
 ```
